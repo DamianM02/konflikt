@@ -2,8 +2,8 @@
 
 int main(){
   
-  int a=5;
-  printf("%i\n",a);
+  double a=5;
+  printf("%dl\n",a);
   
   
   
