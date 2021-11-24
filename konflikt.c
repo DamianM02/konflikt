@@ -2,8 +2,8 @@
 
 int main(){
   
-  int a=5;
-  printf("%i\n",a);
+  float a=5;
+  printf("%f\n",a);
   
   
   
