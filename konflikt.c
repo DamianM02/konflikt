@@ -2,8 +2,9 @@
 
 int main(){
   
-  double a=5;
-  printf("%dl\n",a);
+
+  float a=5;
+  printf("%f\n",a);
   
   
   
