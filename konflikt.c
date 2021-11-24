@@ -2,6 +2,7 @@
 
 int main(){
   
+
   float a=5;
   printf("%f\n",a);
   
